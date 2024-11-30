@@ -5,7 +5,6 @@ import software.ulpgc.kata4.model.Movie;
 import java.io.File;
 import java.sql.*;
 import java.util.List;
-import java.util.concurrent.Executor;
 
 import static java.sql.Types.INTEGER;
 import static java.sql.Types.NVARCHAR;

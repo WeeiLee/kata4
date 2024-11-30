@@ -6,7 +6,7 @@ import software.ulpgc.kata4.ui.ImportDialog;
 
 import java.io.File;
 import java.io.IOException;
-import java.sql.SQLException;
+
 
 public class ImportCommand implements Command{
     private final ImportDialog dialog;
